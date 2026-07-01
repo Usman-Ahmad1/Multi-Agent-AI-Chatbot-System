@@ -1,0 +1,21 @@
+Top Data Science Books for Beginners (2026):
+
+1. "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
+   - Best for: Practical ML with Python
+   - Rating: 9.8/10
+
+2. "Python Data Science Handbook" by Jake VanderPlas
+   - Best for: Python data tools (Pandas, NumPy, Matplotlib)
+   - Rating: 9.7/10
+
+3. "Data Analysis with Python" by Wes McKinney
+   - Best for: Pandas mastery
+   - Rating: 9.6/10
+
+4. "Data Science for Business" by Foster Provost & Tom Fawcett
+   - Best for: Business applications
+   - Rating: 9.5/10
+
+5. "Python Machine Learning" by Sebastian Raschka
+   - Best for: ML algorithms
+   - Rating: 9.4/10
