@@ -6,10 +6,9 @@ This is **not** just another chatbot. It reasons, plans, uses tools, delegates t
 
 ---
 
-- ## 📸 Screenshot
+- ## 📸 Multiagent-chat-bot system
 
-![Chat with PDFs Interface](<img width="674" height="318" alt="Screenshot 2026-07-01 143204" src="https://github.com/user-attachments/assets/36a4bfba-0ba3-4e5b-b959-0bed6297b82d" />.png)
-
+![Chat Interface](https://github.com/user-attachments/assets/36a4bfba-0ba3-4e5b-b959-0bed6297b82d)
 
 ## ✨ Key Highlights
 
