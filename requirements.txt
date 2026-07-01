@@ -1,0 +1,9 @@
+groq==0.9.0
+httpx>=0.27.2,<0.28.0   # or whatever version works with your groq SDK
+python-dotenv==1.2.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+streamlit==1.38.0
+pandas==2.2.2
+Pillow==10.4.0
+--only-binary=:all:
